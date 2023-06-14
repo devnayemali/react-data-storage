@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Sono",
+        "price": 111
+    },
+    {
+        "id": 2,
+        "name": "Fair Lovely",
+        "price": 120
+    },
+    {
+        "id": 3,
+        "name": "Fair Handsome",
+        "price": 1000
+    },
+    {
+        "id": 4,
+        "name": "Hair Style",
+        "price": 333
+    },
+    {
+        "id": 5,
+        "name": "Loson Book",
+        "price": 222
+    },
+    {
+        "id": 6,
+        "name": "Hair Oil",
+        "price": 323
+    }
+]
